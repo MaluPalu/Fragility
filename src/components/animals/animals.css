@@ -1,0 +1,10 @@
+.Animal {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    background-color: black;
+    height: 27.3%;
+    opacity: .5;
+    color: white;
+}
+

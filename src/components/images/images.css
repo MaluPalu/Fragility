@@ -1,0 +1,13 @@
+.sharkImg {
+    display: block;
+    margin: auto;
+    padding: 10px;
+    float: left;
+    position: relative;
+    width:  375px;
+    height: 223px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    opacity: .9;
+}

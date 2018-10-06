@@ -1,0 +1,25 @@
+.body {
+  height: 975px;
+  overflow: hidden;
+}
+
+.bg {
+  background-image: url("/imgs/world-map.jpeg");
+  background: cover;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.animalContainer {
+  opacity: 0.5;
+  position: relative;
+  top: 24%;
+  background-color: black;
+  height: 23%;
+}
+
+
+
+
